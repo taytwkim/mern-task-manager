@@ -1,6 +1,4 @@
-## Project: MERN Stack CRUD App for Interview Preparation
-
-### Background
+## MERN Stack CRUD App
 
 I have an upcoming MERN Stack debugging interview where I'll be given an existing application containing an error. My task will be to identify and fix the error with AI assistance.
 
